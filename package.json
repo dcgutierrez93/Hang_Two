@@ -1,0 +1,26 @@
+{
+  "name": "hang_two",
+  "version": "1.0.0",
+  "description": "Hang",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcgutierrez93/Hang_Two.git"
+  },
+  "author": "David Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcgutierrez93/Hang_Two/issues"
+  },
+  "homepage": "https://github.com/dcgutierrez93/Hang_Two#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql2": "^1.5.2",
+    "sequelize": "^4.35.1",
+    "sequelize-cli": "^4.0.0"
+  }
+}
