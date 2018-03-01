@@ -1,0 +1,10 @@
+body {
+    background-image: url("../images/giftly.png");
+    font-size        : 25px;
+    letter-spacing   : 0.015em;
+    line-height      : 1.6em;
+}
+
+/*#welcome-title {
+    position: absolute;
+}*/
